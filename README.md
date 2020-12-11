@@ -15,7 +15,10 @@ to defy forgetting in classification tasks (**arXiv 2019**) [[paper](https://arx
 - <a name="todo"></a> Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning (**NeurIPS2020**) [[paper](https://arxiv.org/pdf/2003.05856.pdf)] 
 
 
-## Fake News Detection
+## Misinformation Detection
+
+
+## Echo Chamber
 
 
 ## Low-resource Learning
