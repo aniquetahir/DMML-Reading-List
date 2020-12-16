@@ -9,6 +9,7 @@
 ## Low-resource Learning
 
 ## Echo Chamber Detection
+- Towards Quantifying the Distance between Opinions (**ICWSM 2020**) [[Paper](https://arxiv.org/pdf/2001.09879.pdf)]
 
 ## Misinformation Detection
 
